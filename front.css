@@ -1,0 +1,24 @@
+#navbar{ height: 100px;
+
+}
+
+#img1{
+       height: 60px;
+       width: 60px;
+       color: RED;
+}
+#d1{
+       height: 60px;
+       width: 60px;
+       color: RED;
+}
+#footr{
+	height: 100px;
+	background-color: red;
+	color:black;
+}
+#sectn{
+	height: 100px;
+	background-color: blue;
+	color: red;
+}
