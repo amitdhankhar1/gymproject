@@ -15,7 +15,9 @@
 #footr{
 	height: 100px;
 	background-color: red;
-	color:black;
+       color:black;
+       position: ;
+       
 }
 #sectn{
 	height: 100px;
